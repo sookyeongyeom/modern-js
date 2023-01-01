@@ -7,7 +7,7 @@
 -   [x] **Chapter 05** - 표현식과 문
 -   [x] **Chapter 06** - 데이터 타입
 -   [x] **Chapter 07** - 연산자
--   [ ] **Chapter 08** - 제어문
+-   [x] **Chapter 08** - 제어문
 -   [ ] **Chapter 09** - 타입 변환과 단축 평가
 -   [ ] **Chapter 10** - 객체 리터럴
 -   [ ] **Chapter 11** - 원시 값과 객체의 비교
