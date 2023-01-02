@@ -9,7 +9,7 @@
 -   [x] **Chapter 07** - 연산자
 -   [x] **Chapter 08** - 제어문
 -   [x] **Chapter 09** - 타입 변환과 단축 평가
--   [ ] **Chapter 10** - 객체 리터럴
+-   [x] **Chapter 10** - 객체 리터럴
 -   [ ] **Chapter 11** - 원시 값과 객체의 비교
 -   [ ] **Chapter 12** - 함수
 -   [ ] **Chapter 13** - 스코프
